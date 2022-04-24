@@ -1,0 +1,16 @@
+{
+    "profile_name" : "New Profile",
+    	"first_name": "Karan",
+         "last_name": "Singh",
+         "email": "singh@gmail.com",
+         "phone": "1234567890",
+         "street": "Sarai",
+         "city": "Lucknow",
+         "state": "UP",
+         "country": "India",
+         "pincode": "226004",
+         "about": "Cool & Good",
+         "previous_work": "Fresher",
+         "projects": "Django",
+         "extra_curricular": "Cricket"
+}
